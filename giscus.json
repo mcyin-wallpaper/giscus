@@ -1,8 +1,8 @@
 {
   "origins": [
-    "mcyin"
+    "https://mcyin.com"
   ],
   "originsRegex": [
-    "*.mcyin"
+    "^https://.*\\.mcyin.com$"
   ]
 }
